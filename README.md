@@ -1,2 +1,1 @@
-author namer = harendra singh # new-
-no
+author namer = harendra singh 
